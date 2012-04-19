@@ -1,6 +1,6 @@
-name: elInside
+name: Element.inside
 author: jnbdz
 category: Utilities
 tags: [inside, detect, check, element]
 demo: http://jsfiddle.net/jnbdz/q2Gm6/
-current: 0.1
+current: 0.2

@@ -1,4 +1,4 @@
-elInside
+Element.inside
 ===========
 
 Check if the first element is inside the second element.
@@ -10,4 +10,4 @@ How to use
 
 The code is self explanatory. It will return true if the first element is inside the second element.
 
-    firstElement.elInside(secondElement);
+    firstElement.inside(secondElement);
